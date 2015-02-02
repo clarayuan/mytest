@@ -1,8 +1,6 @@
-this is a new file
+add more 
+add some more text
 just to demonstrate how to use
 cherry pick
 
 wondering
-how to use it
-so much
-choices
